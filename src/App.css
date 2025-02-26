@@ -1,0 +1,14 @@
+.app-root {
+    display: flex;
+    flex-direction: column;
+    padding: 5rem;
+    align-items: center;
+}
+
+h1 {
+    color: lavender;
+}
+
+.instructions {
+    color: rgb(123, 94, 149)
+}
